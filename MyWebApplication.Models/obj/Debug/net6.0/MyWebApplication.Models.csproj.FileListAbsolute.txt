@@ -1,0 +1,12 @@
+D:\Learning\MyWebApplication\MyWebApplication.Models\bin\Debug\net6.0\MyWebApplication.Models.deps.json
+D:\Learning\MyWebApplication\MyWebApplication.Models\bin\Debug\net6.0\MyWebApplication.Models.dll
+D:\Learning\MyWebApplication\MyWebApplication.Models\bin\Debug\net6.0\MyWebApplication.Models.pdb
+D:\Learning\MyWebApplication\MyWebApplication.Models\obj\Debug\net6.0\MyWebApplication.Models.csproj.AssemblyReference.cache
+D:\Learning\MyWebApplication\MyWebApplication.Models\obj\Debug\net6.0\MyWebApplication.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MyWebApplication\MyWebApplication.Models\obj\Debug\net6.0\MyWebApplication.Models.AssemblyInfoInputs.cache
+D:\Learning\MyWebApplication\MyWebApplication.Models\obj\Debug\net6.0\MyWebApplication.Models.AssemblyInfo.cs
+D:\Learning\MyWebApplication\MyWebApplication.Models\obj\Debug\net6.0\MyWebApplication.Models.csproj.CoreCompileInputs.cache
+D:\Learning\MyWebApplication\MyWebApplication.Models\obj\Debug\net6.0\MyWebApplication.Models.dll
+D:\Learning\MyWebApplication\MyWebApplication.Models\obj\Debug\net6.0\refint\MyWebApplication.Models.dll
+D:\Learning\MyWebApplication\MyWebApplication.Models\obj\Debug\net6.0\MyWebApplication.Models.pdb
+D:\Learning\MyWebApplication\MyWebApplication.Models\obj\Debug\net6.0\ref\MyWebApplication.Models.dll

@@ -1,0 +1,17 @@
+D:\Learning\MyWebApplication\MyWebApplication.Data\bin\Debug\net6.0\MyWebApplication.Data.deps.json
+D:\Learning\MyWebApplication\MyWebApplication.Data\bin\Debug\net6.0\MyWebApplication.Data.runtimeconfig.json
+D:\Learning\MyWebApplication\MyWebApplication.Data\bin\Debug\net6.0\MyWebApplication.Data.dll
+D:\Learning\MyWebApplication\MyWebApplication.Data\bin\Debug\net6.0\MyWebApplication.Data.pdb
+D:\Learning\MyWebApplication\MyWebApplication.Data\bin\Debug\net6.0\MyWebApplication.Models.dll
+D:\Learning\MyWebApplication\MyWebApplication.Data\bin\Debug\net6.0\MyWebApplication.Models.pdb
+D:\Learning\MyWebApplication\MyWebApplication.Data\obj\Debug\net6.0\MyWebApplication.Data.csproj.AssemblyReference.cache
+D:\Learning\MyWebApplication\MyWebApplication.Data\obj\Debug\net6.0\MyWebApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MyWebApplication\MyWebApplication.Data\obj\Debug\net6.0\MyWebApplication.Data.AssemblyInfoInputs.cache
+D:\Learning\MyWebApplication\MyWebApplication.Data\obj\Debug\net6.0\MyWebApplication.Data.AssemblyInfo.cs
+D:\Learning\MyWebApplication\MyWebApplication.Data\obj\Debug\net6.0\MyWebApplication.Data.csproj.CoreCompileInputs.cache
+D:\Learning\MyWebApplication\MyWebApplication.Data\obj\Debug\net6.0\MyWebApplication.Data.csproj.CopyComplete
+D:\Learning\MyWebApplication\MyWebApplication.Data\obj\Debug\net6.0\MyWebApplication.Data.dll
+D:\Learning\MyWebApplication\MyWebApplication.Data\obj\Debug\net6.0\refint\MyWebApplication.Data.dll
+D:\Learning\MyWebApplication\MyWebApplication.Data\obj\Debug\net6.0\MyWebApplication.Data.pdb
+D:\Learning\MyWebApplication\MyWebApplication.Data\obj\Debug\net6.0\MyWebApplication.Data.genruntimeconfig.cache
+D:\Learning\MyWebApplication\MyWebApplication.Data\obj\Debug\net6.0\ref\MyWebApplication.Data.dll
